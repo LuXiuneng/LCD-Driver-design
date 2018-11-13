@@ -1,4 +1,4 @@
-## LCD-Driver-design
+## LCD-Driver-Design
 A Driver design that is used to drive a 38-mm smartwatch display. The technology we use is Gpdk045.
 
 - College: University of California, Berkeley
